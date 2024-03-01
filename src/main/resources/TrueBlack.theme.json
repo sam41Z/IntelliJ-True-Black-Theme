@@ -1,7 +1,7 @@
 {
   "name": "True Black",
   "dark": true,
-  "author": "Ahmed Elshaer",
+  "author": "Samuel Zweifel",
   "editorScheme": "/TrueBlack.xml",
   "colors": {
     "primary": "#000000",
@@ -74,7 +74,8 @@
       }
     },
     "CompletionPopup": {
-      "matchForeground": "#fc5fa3"
+      "matchForeground": "#fc5fa3",
+      "selectionInactiveBackground": "inactiveSelection"
     },
     "Component": {
       "focusColor": "activeSelection",
@@ -88,7 +89,7 @@
     "EditorTabs": {
       "underlinedTabBackground": "primary",
       "background": "secondary",
-      "underlineHeight": 2
+      "underlineHeight": 4
     },
     "Link": {
       "activeForeground": "#0c90f8",

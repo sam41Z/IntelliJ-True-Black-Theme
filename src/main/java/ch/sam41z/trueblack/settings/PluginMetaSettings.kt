@@ -1,6 +1,6 @@
-package com.ahmed3elshaer.trueblack.settings
+package ch.sam41z.trueblack.settings
 
-import com.ahmed3elshaer.trueblack.settings.PluginMetaSettings.MetaState
+import ch.sam41z.trueblack.settings.PluginMetaSettings.MetaState
 import com.intellij.openapi.components.PersistentStateComponent
 import com.intellij.openapi.components.State
 import com.intellij.openapi.components.Storage

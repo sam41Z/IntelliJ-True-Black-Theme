@@ -10,7 +10,7 @@
     <option name="ADDED_LINES_COLOR" value="2e913f" />
     <option name="BREADCRUMBS_BORDER_COLOR" value="0" />
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="171717" />
+    <option name="CARET_ROW_COLOR" value="141414" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DOCUMENTATION_COLOR" value="212327" />
     <option name="DOC_COMMENT_LINK" value="5482ff" />
@@ -364,9 +364,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="383a60" />
-        <option name="EFFECT_COLOR" value="383a60" />
-        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="BACKGROUND" value="22233b" />
+        <option name="EFFECT_COLOR" value="22233b" />
+        <option name="ERROR_STRIPE_COLOR" value="036b13" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -717,7 +717,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="565246" />
+        <option name="BACKGROUND" value="3b3830" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
