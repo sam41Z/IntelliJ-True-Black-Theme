@@ -6,8 +6,8 @@
   "colors": {
     "primary": "#000000",
     "secondary": "#000000",
-    "activeSelection": "#2A2A2A",
-    "inactiveSelection": "#2A2A2A",
+    "activeSelection": "#152a3f",
+    "inactiveSelection": "#15212d",
     "borderColor": "#1c1c1c"
   },
   "ui": {
@@ -89,7 +89,8 @@
     "EditorTabs": {
       "underlinedTabBackground": "primary",
       "background": "secondary",
-      "underlineHeight": 4
+      "underlineHeight": 4,
+      "inactiveUnderlineColor": "inactiveSelection"
     },
     "Link": {
       "activeForeground": "#0c90f8",
